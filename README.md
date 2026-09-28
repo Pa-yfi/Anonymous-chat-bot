@@ -1,4 +1,4 @@
-# Jamal Bot — Anonymous Chat Telegram Bot
+# Anonymous Chat Telegram Bot
 
 A Telegram bot that connects users to each other **anonymously**, lets users **contact an admin**, and gives admins a **control panel** to manage users and **step into live conversations**.
 
